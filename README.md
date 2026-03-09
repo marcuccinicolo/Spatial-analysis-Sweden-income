@@ -1,5 +1,8 @@
 # Spatial Analysis of Income Distribution in Sweden (2009)
 
+![QGIS](https://img.shields.io/badge/Made%20with-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GeoDa](https://img.shields.io/badge/Analysis-GeoDa-004477?style=for-the-badge)
+
 ## Project Overview
 This study explores the geographic distribution of average income across Swedish municipalities using data from 2009. The analysis aims to determine whether wealth is distributed randomly or if it exhibits significant spatial patterns such as clustering.
 
