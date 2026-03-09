@@ -25,11 +25,13 @@ The analysis identified significant wealth clusters using the Getis-Ord $Gi^{*}$
 ## Visualizations
 
 ### Income Hotspot Map
-![Hotspot Map](images/hotspot_map.jpg)
+![Hotspot Map](images/hotspot_map.png)
+
 *Figure 1: Statistically significant clusters of high (red) and low (blue) income.*
 
 ### Moran's I Scatter Plot
 ![Moran Scatter Plot](images/moran_scatter_plot.png)
+
 *Figure 2: Visual representation of the global spatial autocorrelation.*
 
 ---
